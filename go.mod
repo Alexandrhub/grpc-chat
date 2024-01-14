@@ -8,6 +8,7 @@ require (
 	github.com/golang/protobuf v1.5.3
 	github.com/jackc/pgconn v1.14.1
 	github.com/jackc/pgx/v4 v4.18.1
+	github.com/pkg/errors v0.9.1
 	google.golang.org/grpc v1.60.1
 	google.golang.org/protobuf v1.32.0
 )
