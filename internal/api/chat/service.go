@@ -1,4 +1,4 @@
-package api
+package chat
 
 import (
 	"github.com/alexandrhub/grpc-chat/internal/service"
